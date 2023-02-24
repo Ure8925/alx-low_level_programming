@@ -2,7 +2,7 @@
 
 /**
 *print_most_numbers - prints
-* owned by Ure8925
+* owned by Bwave ICT
 *Return: void
 */
 
