@@ -1,4 +1,4 @@
-include "variadic_functions.h"
+#include "variadic_functions.h"
 
 /**
  * print_strings - Prints strings passed to the function separed by separators
@@ -28,5 +28,4 @@ void print_strings(const char *separator, const unsigned int n, ...)
 	}
 	printf("\n");
 	va_end(ap);
-}
 }
